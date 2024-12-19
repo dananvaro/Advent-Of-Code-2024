@@ -8,5 +8,6 @@ Advent of Code is a yearly challenges that includes coding puzzeles from decembe
 ## Progress so far 
 | Day | Puzzle Name                | Solution File       | Language     | 
 |-----|----------------------------|---------------------|--------------|
-| 1   | Historian Hysteria      | DayOne.java | Java       |
-| 2   | Red-Nosed Reports      | DayTwo.java  | Java       | 
+| 1   | Historian Hysteria Part 1      | DayOne.java | Java       |
+| 2   | Red-Nosed Reports Part 1      | DayTwo.java  | Java       | 
+| 3   | Mull It Over Part 1      | DayThree.java  | Java       | 

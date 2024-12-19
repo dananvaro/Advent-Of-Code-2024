@@ -3,7 +3,7 @@
 This repository contains my solutions for the [Advent of Code](https://adventofcode.com/) challenges in Java.
 
 ## What is Advent of Code?
-Advent of Code is a yearly challenges that includes coding puzzeles from december 1st to 24th. 
+Advent of Code is a yearly challenge that includes coding puzzles from December 1st to 24th.
 
 ## Progress so far 
 | Day | Puzzle Name                | Solution File       | Language     | 

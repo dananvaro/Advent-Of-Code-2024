@@ -8,7 +8,12 @@ import java.util.List;
 
 public class DayOne {
 
+
+
     public static void main(String[] args) {
+
+
+        long startTime = System.nanoTime();
 
         String filePath = "src\\resource\\day1Input.txt";
 
@@ -44,8 +49,10 @@ public class DayOne {
 
             int sum = list3.stream().mapToInt(Integer::intValue).sum();
 
-            System.out.println("Answer to day 1: "+ sum);
+            System.out.println(sum);
 
+            long elapsedTime = System.nanoTime() - startTime;
+            System.out.println("Elapsed time: " + (elapsedTime / 1_000_000_000.0) + " seconds");
         }
         catch (IOException e){
 

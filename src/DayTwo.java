@@ -44,6 +44,8 @@ public class DayTwo {
 
     public static void main(String[] args) {
 
+        long startTime = System.nanoTime();
+
         String filePath = "src\\resource\\day2Input.txt";
 
         try{
@@ -62,6 +64,9 @@ public class DayTwo {
             }
 
             System.out.println("Part 1 = " + safe);
+
+            long elapsedTime = System.nanoTime() - startTime;
+            System.out.println("Elapsed time: " + (elapsedTime / 1_000_000_000.0) + " seconds");
 
 
         }

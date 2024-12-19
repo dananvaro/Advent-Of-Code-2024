@@ -8,7 +8,7 @@ Advent of Code is a yearly challenges that includes coding puzzeles from decembe
 ## Progress so far 
 | Day | Puzzle Name                | Solution File       | Language     | 
 |-----|----------------------------|---------------------|--------------|
-| 1   | Title of Day 1 Puzzle      | DayOne.java | Java       |
-| 2   | Title of Day 2 Puzzle      | DayTwo.java  | Java       | 
+| 1   | Historian Hysteria      | DayOne.java | Java       |
+| 2   | Red-Nosed Reports      | DayTwo.java  | Java       | 
 
 ##  Repository Structure
